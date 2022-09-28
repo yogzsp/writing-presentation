@@ -35,9 +35,11 @@ Tak hanya disitu kita juga harus mengetahui beberapa operator yang di miliki ole
 
 ![](6.png)
 
+![](7.png)
+
 Jika sudah mengenal materi yang sudah di bahas sebelumnya, pasti kita akan bertemu dengan conditional. Conditional merupakan statement percabangan yang menggambarkan suatu kondisi sebelum mengeksekosi perintah yang diberikan. Yang di baca dari conditional ialah nilai boolean yaitu true dan false. Jika nilai bernilai benar maka akan mengeksekusi perintah didalamnya dan jika salah maka akan mengeksekusi perintah sesuai yang ditentukan. Contoh penerapannya ialah if, else if dan else. Dan jika kondisi terlalu banyak maka kita bisa menggunakan perintah swtich case.
 
-![](7.png)
+![](9.png)
 
 ![](8.png)
 
@@ -45,7 +47,6 @@ Javascript juga memiliki perintah untuk melakukan perulangan yang biasa disebut 
 
 1. **For loop**
 
-![](9.png)
 
 1. **While loop**
 
