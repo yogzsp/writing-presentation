@@ -46,10 +46,12 @@ Jika sudah mengenal materi yang sudah di bahas sebelumnya, pasti kita akan berte
 Javascript juga memiliki perintah untuk melakukan perulangan yang biasa disebut dengan looping. Looping adalah statement yang mengulang sebuah instruksi hingga kondisi sudah terpenuhi. Beberapa jenis perulangan yang ada di javascript ialah.
 
 1. **For loop**
+2. 
 ![](10.png)
 
 1. **While loop**
-
+2. 
+![](13.png)
 
 1. **Do while**
 
