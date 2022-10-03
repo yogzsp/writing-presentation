@@ -26,16 +26,16 @@ Untuk memanggil sebuah function di javascript kita cukup dengan menyebut nama id
 
 ## Parameter & Argumen  
 Dalam sebuah fungsi kita dapat mengenal istilah Parameter & Argumen, lalu apa sih mereka itu?. Parameter merupakan sebuah variabel yang digunakan untuk mendeklarasikan fungsi, sedangan argumen merupakan nilai dari parameter itu sendiri saat proses pemanggilan sebuah fungsi. Biasanya parameter digunakan 1 atau lebih guna untuk mendeklarasikan nilai dari sebuah fungsi yang ada didalamnya.  
-![Gambar Parameter](./parameter.png)
-![Gambar Argumen](./argumen.png)
+![Gambar Parameter](./parameter.png)  
+![Gambar Argumen](./argumen.png)  
 
 Nah itu adalah pengertian dari parameter dan argumen. Jadi jika fungsi yang kita buat ingin memiliki nilai sesuai dengan kebutuhan user maka kita perlu menambahkan sebuah parameter, disisi lain kita disarankan untuk menambahkan debuah default parameter. Default parameter digunakan untuk memberikan nilai awal dari sebuah parameter yang berguna untuk menjaga function kita terhindar dari bug/error saat dipanggil tanpa argumen.
 
 ## Macam-macam cara penulisan function
 
-Berikut ini adalah macam-macam cara penulisan function : 
-![Gambar macam-macam penulisan function](./fungsi3.png)
-![Gambar macam-macam penulisan function](./fungsi4.png)
+Berikut ini adalah macam-macam cara penulisan function :  
+![Gambar macam-macam penulisan function](./fungsi3.png)  
+![Gambar macam-macam penulisan function](./fungsi4.png)  
 
 # Tipe Data
 Tak lengkap rasanya saat kita membahas sebuah bahasa pemrograman tanpa membahas tipe datanya. Pada javascript sama seperti bahasa pemrograman pada umumnya juga memiliki beberapa tipe data yang bisa kita gunakan untuk membuat sebuah program. Tipe-tipe data tersebut bisa kita gunakan untuk membuat sebuah nama, keputusan maupun membuat sebuah penjumlahan. Berikut adalah tipe data yang bisa kita gunakan di javascript :
